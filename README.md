@@ -1,6 +1,6 @@
 ### Hi there 👋
-
-
+[Resume](https://www.notion.so/Wooseong-Yoon-ce203d53709c4019957e3cc01513aa82)
+<!--
 **yoonwooseong/yoonwooseong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -13,4 +13,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-
+-->
