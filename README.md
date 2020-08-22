@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-#### Portfolio [Wooseong's Resume](https://www.notion.so/Wooseong-Yoon-ce203d53709c4019957e3cc01513aa82)
+#### 📫 Resume : [Wooseong's Resume](https://www.notion.so/Wooseong-Yoon-ce203d53709c4019957e3cc01513aa82)
 
 </br>
 
