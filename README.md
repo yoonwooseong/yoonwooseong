@@ -2,6 +2,9 @@
 
 #### 📫 Resume : [Wooseong's Resume](https://www.notion.so/Wooseong-Yoon-ce203d53709c4019957e3cc01513aa82)
 
+#### etc
+JAVA, SPRING, ALGORITHM 등 private repositories를 보고 싶으시면  
+dntjd851@naver.com 로 GitHub 아이디를 알려주세요!
 </br>
 
 <p align="">
