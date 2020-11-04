@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-#### 📫 Resume : [Wooseong's Resume](https://www.notion.so/Wooseong-Yoon-ce203d53709c4019957e3cc01513aa82)
+#### 📫 Resume : [Wooseong's Resume](https://www.notion.so/Wooseong-Yoon-07f5fac1aedd47aa9da1f1560c9ae698)
 
 #### etc
 JAVA, SPRING, ALGORITHM 등 private repositories를 보고 싶으시면  
