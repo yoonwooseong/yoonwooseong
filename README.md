@@ -1,10 +1,10 @@
 ### Hi there 👋
 
-#### 📫 Resume : [Wooseong's Resume](https://www.notion.so/Wooseong-Yoon-07f5fac1aedd47aa9da1f1560c9ae698)
 
-#### etc
-JAVA, SPRING, ALGORITHM 등 private repositories를 보고 싶으시면  
-dntjd851@naver.com 로 GitHub 아이디를 알려주세요!
+#### 📜 Resume : [Wooseong's Resume](https://www.notion.so/Wooseong-Yoon-07f5fac1aedd47aa9da1f1560c9ae698)
+
+#### 📫 e-mail : dntjd851@naver.com // Instagram : [95wooseong](https://www.instagram.com/95wooseong/)
+
 </br>
 
 <p align="">
