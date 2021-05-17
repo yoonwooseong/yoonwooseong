@@ -5,7 +5,7 @@
 
 #### 📫 e-mail : dntjd851@naver.com  
 
-#### ⭐Instagram : [95wooseong](https://www.instagram.com/95wooseong/)
+#### ⭐ Instagram : [95wooseong](https://www.instagram.com/95wooseong/)
 
 </br>
 
