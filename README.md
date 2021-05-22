@@ -1,11 +1,12 @@
-### Hi there 👋
+### Hi, My record 👋  
 
+#### 📔 My Blog : [블로그](https://yoonwooseong.github.io/)  
 
-#### 📜 Resume : [Wooseong's Resume](https://www.notion.so/Wooseong-Yoon-07f5fac1aedd47aa9da1f1560c9ae698)
+#### 📃 Resume : [Resume](https://www.notion.so/Wooseong-Yoon-07f5fac1aedd47aa9da1f1560c9ae698)  
 
-#### 📫 e-mail : dntjd851@naver.com  
+#### ⭐ Instagram : [95wooseong](https://www.instagram.com/95wooseong/)  
 
-#### ⭐ Instagram : [95wooseong](https://www.instagram.com/95wooseong/)
+#### 📫 e-mail : dntjd851@naver.com   
 
 </br>
 
